@@ -20,8 +20,9 @@ You can run the app by runnning main.py([>python main.py]) after installing requ
 ![analyzing](img/analysis.png)
 
 ## Contact
-I hope to work with Sam. H. If you have projects, you can contact me via Skype ID [live:.cid.b8144cf89d38b550]. I can help you in many areas including software development, web development and simulation.
+If you have projects, you can contact me via Skype ID [live:.cid.b8144cf89d38b550]. I can help you in many areas including software development, web development and simulation.
 Thanks for your attention.
 
 ## License
+[GNU GPL](LICENSE.txt)
 
